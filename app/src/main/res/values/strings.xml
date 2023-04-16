@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgroHold</string>
+    <string name="welcome_to_our_app">Welcome to AgroHold</string>
+    <string name="app_description">  This application is for people who are starting with agriculture and wanted to know about what crops can be grown in each season.
+        \n\nThe simple interface of this application helps you choose crops based on your season and soil type.
+        \n\nClick Next to continue</string>
+    <string name="facts_text">Interesting fact</string>
+    <string name="select_your_current_season">Select your current season</string>
+</resources>

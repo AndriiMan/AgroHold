@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.agrohold.SeasonSelection">
+
+    <!--
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:rowCount="2"
+        android:columnCount="2"></GridLayout>
+        -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/facts_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/dark_teal"
+            android:text="@string/facts_text"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/random_facts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/teal_700"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            tools:text="Random facts are displayed here" />
+
+        <TextView
+            android:id="@+id/select_season_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="@string/select_your_current_season"
+            android:textSize="24sp" />
+
+        <com.google.android.material.divider.MaterialDivider
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"
+            app:dividerColor="?attr/colorSecondaryVariant"
+            />
+
+        <RadioGroup
+            android:id="@+id/seasonRadioGrp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/summer_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:contentDescription="summer"
+                android:scaleType="centerCrop"
+                android:src="@drawable/summer"
+              />
+
+            <RadioButton
+                android:id="@+id/summer_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="summer" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/winter_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:contentDescription="winter"
+                android:scaleType="centerCrop"
+                android:src="@drawable/winter"/>
+
+            <RadioButton
+                android:id="@+id/winter_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="winter" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/autumn_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:contentDescription="autumn"
+                android:scaleType="centerCrop"
+                android:src="@drawable/autumn"
+                />
+
+            <RadioButton
+                android:id="@+id/autumn_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="autumn" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/spring_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:contentDescription="spring"
+                android:scaleType="centerCrop"
+                android:src="@drawable/spring"/>
+            <RadioButton
+                android:id="@+id/spring_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="spring" />
+        </RadioGroup>
+    </LinearLayout>
+</ScrollView>
