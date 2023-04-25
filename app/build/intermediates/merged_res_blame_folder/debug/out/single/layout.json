@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-mergeDebugResources-28:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-mergeDebugResources-28:\\layout\\activity_season_selection.xml",
+        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.healthyharvest.app-main-31:\\layout\\activity_season_selection.xml"
+    },
+    {
+        "merged": "com.example.healthyharvest.app-mergeDebugResources-28:/layout/activity_soil_selection.xml",
+        "source": "com.example.healthyharvest.app-main-31:/layout/activity_soil_selection.xml"
+    }
+]

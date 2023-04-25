@@ -1,10 +1,14 @@
 package com.example.agrohold
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.widget.RadioButton
+import android.widget.RadioGroup
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.healthyharvest.R
+import com.example.healthyharvest.SoilSelection
 
 class SeasonSelection : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,6 +19,24 @@ class SeasonSelection : AppCompatActivity() {
         supportActionBar?.title = "Getting started!"
 
         generateRandomFact()
+
+        val seasonRadioGrp = findViewById<RadioGroup>(R.id.seasonRadioGrp)
+        seasonRadioGrp.setOnCheckedChangeListener { radioGroup, j ->
+            val radiobuttonChecked = findViewById<RadioButton>(j)
+            if(radiobuttonChecked!=null){
+
+                // Converting Name of the ID selected
+                val selectedSeasonData = radiobuttonChecked.text.toString()
+
+                // Preparing to send the data
+                val soilSelectionIntent = Intent (applicationContext, SoilSelection::class.java)
+
+                // Sending the data with the key
+                soilSelectionIntent.putExtra("seasonData_key",selectedSeasonData)
+                startActivity(soilSelectionIntent) // data sent with going to next screen
+                radioGroup.clearCheck()
+            }
+        }
     }
     private fun generateRandomFact(){
         val funFactsArray = arrayOf(

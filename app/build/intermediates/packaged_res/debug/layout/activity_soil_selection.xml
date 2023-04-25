@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SoilSelection">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:id="@+id/soil_selection_radio_grp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/select_your_soil_to_recommend_crops"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="bold|italic" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img7"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/alluvial_soil"
+                android:src="@drawable/alluvial_soil" />
+            <RadioButton
+                android:id="@+id/R7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/alluvial_soil" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img6"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/black_soil"
+                android:src="@drawable/black_soil" />
+            <RadioButton
+                android:id="@+id/R6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/black_soil" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/forest_and_mountain_soil"
+                android:src="@drawable/forest_and_mountain_soil" />
+            <RadioButton
+                android:id="@+id/R1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/forest_and_mountain_soil"
+                android:textAlignment="center" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img2"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/loamy_soil"
+                android:src="@drawable/loamy_soil" />
+            <RadioButton
+                android:id="@+id/R2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/loamy_soil" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img3"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/arid_soil"
+                android:src="@drawable/arid_soil" />
+            <RadioButton
+                android:id="@+id/R3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/arid_soil" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img4"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:contentDescription="@string/laterite_soil"
+                android:src="@drawable/laterite_soils" />
+            <RadioButton
+                android:id="@+id/R4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/laterite_soil" />
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img5"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/red_soil"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/circular_image"
+                android:src="@drawable/red_soil" />
+            <RadioButton
+                android:id="@+id/R5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/red_soil" />
+        </RadioGroup>
+
+        <!-- Testing Purpose
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/end_of_the_list"
+            android:layout_gravity="center_horizontal"
+            android:textSize="36sp" />
+            -->
+
+        <!--
+        <Button
+            android:id="@+id/soil_submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/black"
+            android:text="@string/submit" />
+            -->
+    </LinearLayout>
+</ScrollView>
