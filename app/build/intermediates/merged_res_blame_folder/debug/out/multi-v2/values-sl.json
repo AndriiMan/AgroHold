@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.healthyharvest.app-mergeDebugResources-27:/values-sl/values-sl.xml",
+            "outputFile": "com.example.agrohold.app-mergeDebugResources-27:/values-sl/values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vladi\\.gradle\\caches\\transforms-3\\5bfbb98925d55404dd65fe1d59403a34\\transformed\\material-1.8.0\\res\\values-sl\\values-sl.xml",

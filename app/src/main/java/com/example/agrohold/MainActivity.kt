@@ -3,7 +3,6 @@ package com.example.agrohold
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.healthyharvest.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {
@@ -17,6 +16,11 @@ class MainActivity : AppCompatActivity() {
         val fabNextToSeason = findViewById<FloatingActionButton>(R.id.fab_next_to_season)
         fabNextToSeason.setOnClickListener {
             startActivity(Intent(this,SeasonSelection::class.java))
+        }
+
+        val fabNotes = findViewById<FloatingActionButton>(R.id.fab_next_to_season2)
+        fabNotes.setOnClickListener {
+            startActivity(Intent(this,NotesActivity::class.java))
         }
     }
 }

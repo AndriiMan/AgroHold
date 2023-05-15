@@ -26,17 +26,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.HealthyHarvest" >
+        android:theme="@style/Theme.AppCompat" >
         <activity
-            android:name="com.example.agrohold.SeasonSelection"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
+            android:name="com.example.agrohold.CopyrightsActivity"
+            android:exported="false" />
         <activity
-            android:name="com.example.agrohold.MainActivity"
-            android:exported="true" >
+            android:name="com.example.agrohold.AboutApp"
+            android:exported="false" />
+        <activity
+            android:name="com.example.agrohold.AutorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.agrohold.MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.agrohold.SplashScreenActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -48,8 +54,36 @@
                 android:value="" />
         </activity>
         <activity
-            android:name="com.example.healthyharvest.SoilSelection"
+            android:name="com.example.agrohold.SoilSelection"
             android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.agrohold.SeasonSelection"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.agrohold.MainActivity"
+            android:exported="true" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.agrohold.EditActivity"
+            android:exported="true" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.agrohold.NotesActivity"
+            android:exported="true" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
