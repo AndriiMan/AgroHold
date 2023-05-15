@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SoilSelection">
+    tools:context="com.example.agrohold.SoilSelection">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -36,8 +36,8 @@
                 android:src="@drawable/alluvial_soil" />
             <RadioButton
                 android:id="@+id/R7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
                 android:layout_gravity="center_horizontal"
                 android:text="@string/alluvial_soil" />
 
@@ -52,8 +52,8 @@
                 android:src="@drawable/black_soil" />
             <RadioButton
                 android:id="@+id/R6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
                 android:layout_gravity="center_horizontal"
                 android:text="@string/black_soil" />
 
@@ -68,8 +68,8 @@
                 android:src="@drawable/forest_and_mountain_soil" />
             <RadioButton
                 android:id="@+id/R1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
                 android:layout_gravity="center_horizontal"
                 android:text="@string/forest_and_mountain_soil"
                 android:textAlignment="center" />

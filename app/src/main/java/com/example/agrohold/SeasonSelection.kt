@@ -7,8 +7,6 @@ import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.healthyharvest.R
-import com.example.healthyharvest.SoilSelection
 
 class SeasonSelection : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/splash_activity"
     android:background="@color/lavender"
-    tools:context=".SplashScreenActivity">
+    tools:context="com.example.agrohold.SplashScreenActivity">
 
     <ImageView
         android:id="@+id/splash_app_icon"

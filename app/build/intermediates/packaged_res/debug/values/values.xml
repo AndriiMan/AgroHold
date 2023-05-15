@@ -2,8 +2,13 @@
 <resources>
     <color name="black">#000</color>
     <color name="blue">#FF90CAF9</color>
+    <color name="blue_dark">#0D273D</color>
+    <color name="dark_blue">#0239A8</color>
     <color name="dark_green">#046549</color>
     <color name="dark_teal">#2B6A6C</color>
+    <color name="edit_text_color_state">#101010</color>
+    <color name="grey">#bdbdbd</color>
+    <color name="grey2">#B1B1B1</color>
     <color name="lavender">#E6E6FA</color>
     <color name="light_green">#83f28f</color>
     <color name="light_pink">#FFC0CB</color>
@@ -17,8 +22,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#fff</color>
     <color name="yellow">#FFFF00</color>
+    <string name="about_autor">Vladyslav Semak, Andrii Manych</string>
+    <string name="about_copyrights">All rights reserved © 2023</string>
     <string name="action_settings">Settings</string>
     <string name="alluvial_soil">Alluvial Soil</string>
+    <string name="app">About the app</string>
     <string name="app_description">
         This application is for people who are starting with agriculture and wanted to know about what crops can be grown in each season.
         \n\nThe simple interface of this application helps you choose crops based on your season and soil type.
@@ -26,8 +34,12 @@
     </string>
     <string name="app_name">AgroHold</string>
     <string name="arid_soil">Arid Soil</string>
+    <string name="autor">About the author</string>
     <string name="based_on_your_factors_we_recommend">Based on your factors, we recommend:</string>
     <string name="black_soil">Black Soil</string>
+    <string name="copyrights">Сopyrights</string>
+    <string name="ed_desc_hint">Description</string>
+    <string name="ed_title_hint">Title</string>
     <string name="end_of_the_list">End of the list</string>
     <string name="facts_text">Random Facts💡</string>
     <string name="forest_and_mountain_soil">Forest and Mountain Soil</string>
@@ -36,6 +48,7 @@
     <string name="loading">Loading…</string>
     <string name="loamy_soil">Loamy Soil</string>
     <string name="next">Next</string>
+    <string name="no_elements">Empty</string>
     <string name="profession">Profession</string>
     <string name="rainy">Rainy</string>
     <string name="red_soil">Red Soil</string>

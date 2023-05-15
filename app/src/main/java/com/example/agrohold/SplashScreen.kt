@@ -1,4 +1,4 @@
-package com.example.healthyharvest
+package com.example.agrohold
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,6 @@ import android.os.Handler
 import android.os.Looper
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.agrohold.MainActivity
 import com.google.android.material.snackbar.Snackbar
 
 class SplashScreenActivity : AppCompatActivity() {

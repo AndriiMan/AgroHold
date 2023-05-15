@@ -5,6 +5,8 @@
     <string name="facts_text">Random Facts💡</string>
     <string name="summer">Summer</string>
     <string name="winter">Winter</string>
+    <string name="ed_title_hint">Title</string>
+    <string name="ed_desc_hint">Description</string>
     <string name="rainy">Rainy</string>
     <string name="action_settings">Settings</string>
     <string name="select_your_current_season">Select your current season</string>
@@ -26,6 +28,12 @@
     <string name="return_to_home_page">Return To Home Page</string>
     <string name="end_of_the_list">End of the list</string>
     <string name="loading">Loading…</string>
+    <string name="no_elements">Empty</string>
+    <string name="autor">About the author</string>
+    <string name="app">About the app</string>
+    <string name="copyrights">Сopyrights</string>
+    <string name="about_copyrights">All rights reserved © 2023</string>
+    <string name="about_autor">Vladyslav Semak, Andrii Manych</string>
     <string name="app_description">
         This application is for people who are starting with agriculture and wanted to know about what crops can be grown in each season.
         \n\nThe simple interface of this application helps you choose crops based on your season and soil type.
