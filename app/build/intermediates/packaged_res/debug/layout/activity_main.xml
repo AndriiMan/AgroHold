@@ -5,6 +5,7 @@
     android:id="@+id/my_notes"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFFFFF"
     tools:context="com.example.agrohold.MainActivity">
 
     <TextView
@@ -12,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#7bae37"
+        android:fontFamily="@font/tangerine_regular"
         android:gravity="center_horizontal"
         android:padding="15dp"
         android:text="@string/welcome_to_our_app"
@@ -24,9 +26,12 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/home_welcome_text"
         android:layout_margin="8dp"
+        android:background="@drawable/roundcorners"
+        android:fontFamily="@font/crimson_text_bold_italic"
         android:padding="16dp"
+        android:textColor="@color/black"
         android:text="@string/app_name"
-        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline2"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
         tools:text="Home Page" />
 
     <TextView
@@ -37,38 +42,40 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:textColor="@color/black"
         android:padding="8dp"
         android:text="@string/app_description"
         android:textAppearance="@style/TextAppearance.MaterialComponents.Headline5"
         tools:text="App_Description" />
 
+
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab_next_to_season"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="38dp"
         android:backgroundTint="@color/light_green"
-        android:contentDescription="next"
+        android:contentDescription="@string/next"
         android:elevation="20dp"
         android:gravity="bottom"
-        android:src="@drawable/ic_arrow_forward_24"
-        android:text="next"
+        android:src="@drawable/ic_baseline_arrow_forward_24"
+        android:text="@string/next"
         app:rippleColor="@color/dark_teal" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab_next_to_season2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="172dp"
-        android:backgroundTint="@color/light_green"
-        android:contentDescription="next"
+        android:layout_marginStart="65dp"
+        android:layout_marginBottom="38dp"
         android:elevation="20dp"
         android:gravity="bottom"
-        android:src="@drawable/ic_arrow_forward_24"
-        android:text="next"
+        android:src="@drawable/note"
         app:rippleColor="@color/dark_teal" />
 
 </RelativeLayout>

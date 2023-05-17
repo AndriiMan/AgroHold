@@ -4,7 +4,7 @@
             "outputFile": "com.example.agrohold.app-mergeDebugResources-27:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vladi\\.gradle\\caches\\transforms-3\\3e050352d50c5db8d7ab581b0a5992da\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\andri\\.gradle\\caches\\transforms-3\\dc9476a602b5d3ba85354d84722e4f01\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vladi\\.gradle\\caches\\transforms-3\\5bfbb98925d55404dd65fe1d59403a34\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\andri\\.gradle\\caches\\transforms-3\\8227a840a1ec88e56dd9ed198fd96794\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

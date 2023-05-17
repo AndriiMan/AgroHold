@@ -35,6 +35,7 @@
     <string name="app_name">AgroHold</string>
     <string name="arid_soil">Arid Soil</string>
     <string name="autor">About the author</string>
+    <string name="autumn">Autumn</string>
     <string name="based_on_your_factors_we_recommend">Based on your factors, we recommend:</string>
     <string name="black_soil">Black Soil</string>
     <string name="copyrights">Сopyrights</string>
@@ -55,6 +56,7 @@
     <string name="return_to_home_page">Return To Home Page</string>
     <string name="select_your_current_season">Select your current season</string>
     <string name="select_your_soil_to_recommend_crops">Select your soil type, so that we can recommend related crops</string>
+    <string name="spring">Spring</string>
     <string name="submit">Submit</string>
     <string name="summer">Summer</string>
     <string name="title_activity_soil_and_season_selection">SoilActivityAndSeasonSelection</string>

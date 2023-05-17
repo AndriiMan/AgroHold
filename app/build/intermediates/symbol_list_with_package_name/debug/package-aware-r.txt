@@ -2815,6 +2815,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable note
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2988,6 +2989,7 @@ id coordinator
 id cos
 id counterclockwise
 id cradle
+id crop_recommendations_list
 id currentState
 id custom
 id customPanel
@@ -3221,6 +3223,7 @@ id radio
 id random_facts
 id ratio
 id rcView
+id recommended_result_text
 id rectangles
 id reverseSawtooth
 id right
@@ -3506,6 +3509,7 @@ layout activity_edit
 layout activity_main
 layout activity_menu
 layout activity_notes
+layout activity_result_page
 layout activity_season_selection
 layout activity_soil_selection
 layout activity_splash_screen
@@ -3628,6 +3632,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string arid_soil
 string autor
+string autumn
 string based_on_your_factors_we_recommend
 string black_soil
 string bottom_sheet_behavior
@@ -3772,6 +3777,7 @@ string select_your_current_season
 string select_your_soil_to_recommend_crops
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
+string spring
 string status_bar_notification_info_overflow
 string submit
 string summer

@@ -2814,6 +2814,7 @@ int drawable mtrl_switch_track 0x7f0700d8
 int drawable mtrl_switch_track_decoration 0x7f0700d9
 int drawable mtrl_tabs_default_indicator 0x7f0700da
 int drawable navigation_empty_icon 0x7f0700db
+int drawable note 0x7f0700f1
 int drawable notification_action_background 0x7f0700dc
 int drawable notification_bg 0x7f0700dd
 int drawable notification_bg_low 0x7f0700de
@@ -2987,6 +2988,7 @@ int id coordinator 0x7f09008d
 int id cos 0x7f09008e
 int id counterclockwise 0x7f09008f
 int id cradle 0x7f090090
+int id crop_recommendations_list 0x7f090227
 int id currentState 0x7f090091
 int id custom 0x7f090092
 int id customPanel 0x7f090093
@@ -3220,6 +3222,7 @@ int id radio 0x7f090176
 int id random_facts 0x7f090177
 int id ratio 0x7f090178
 int id rcView 0x7f090179
+int id recommended_result_text 0x7f090228
 int id rectangles 0x7f09017a
 int id reverseSawtooth 0x7f09017b
 int id right 0x7f09017c
@@ -3505,6 +3508,7 @@ int layout activity_edit 0x7f0c001f
 int layout activity_main 0x7f0c0020
 int layout activity_menu 0x7f0c0021
 int layout activity_notes 0x7f0c0022
+int layout activity_result_page 0x7f0c0074
 int layout activity_season_selection 0x7f0c0023
 int layout activity_soil_selection 0x7f0c0024
 int layout activity_splash_screen 0x7f0c0025
@@ -3627,6 +3631,7 @@ int string app_name 0x7f100022
 int string appbar_scrolling_view_behavior 0x7f100023
 int string arid_soil 0x7f100024
 int string autor 0x7f100025
+int string autumn 0x7f1000be
 int string based_on_your_factors_we_recommend 0x7f100026
 int string black_soil 0x7f100027
 int string bottom_sheet_behavior 0x7f100028
@@ -3771,6 +3776,7 @@ int string select_your_current_season 0x7f1000b2
 int string select_your_soil_to_recommend_crops 0x7f1000b3
 int string side_sheet_accessibility_pane_title 0x7f1000b4
 int string side_sheet_behavior 0x7f1000b5
+int string spring 0x7f1000bf
 int string status_bar_notification_info_overflow 0x7f1000b6
 int string submit 0x7f1000b7
 int string summer 0x7f1000b8

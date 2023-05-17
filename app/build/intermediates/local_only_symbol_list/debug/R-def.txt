@@ -36,6 +36,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable laterite_soils
 drawable loamy_soil
+drawable note
 drawable rainy
 drawable red_soil
 drawable roundcorners
@@ -61,6 +62,7 @@ id autumn_image
 id btnAboutApp
 id btnAutor
 id btnCopyrights
+id crop_recommendations_list
 id edDesc
 id edTitle
 id fab_next_to_season
@@ -87,6 +89,7 @@ id mainImageLayout
 id my_notes
 id random_facts
 id rcView
+id recommended_result_text
 id searchView
 id seasonRadioGrp
 id select_season_text
@@ -114,6 +117,7 @@ layout activity_edit
 layout activity_main
 layout activity_menu
 layout activity_notes
+layout activity_result_page
 layout activity_season_selection
 layout activity_soil_selection
 layout activity_splash_screen
@@ -129,6 +133,7 @@ string app_description
 string app_name
 string arid_soil
 string autor
+string autumn
 string based_on_your_factors_we_recommend
 string black_soil
 string copyrights
@@ -149,6 +154,7 @@ string red_soil
 string return_to_home_page
 string select_your_current_season
 string select_your_soil_to_recommend_crops
+string spring
 string submit
 string summer
 string title_activity_soil_and_season_selection

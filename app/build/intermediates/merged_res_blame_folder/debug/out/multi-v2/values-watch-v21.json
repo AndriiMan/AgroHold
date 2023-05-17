@@ -4,7 +4,7 @@
             "outputFile": "com.example.agrohold.app-mergeDebugResources-27:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\vladi\\.gradle\\caches\\transforms-3\\3e050352d50c5db8d7ab581b0a5992da\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\andri\\.gradle\\caches\\transforms-3\\dc9476a602b5d3ba85354d84722e4f01\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

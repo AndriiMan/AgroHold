@@ -5,6 +5,8 @@
     <string name="facts_text">Random Facts💡</string>
     <string name="summer">Summer</string>
     <string name="winter">Winter</string>
+    <string name="autumn">Autumn</string>
+    <string name="spring">Spring</string>
     <string name="ed_title_hint">Title</string>
     <string name="ed_desc_hint">Description</string>
     <string name="rainy">Rainy</string>
@@ -37,6 +39,8 @@
     <string name="app_description">
         This application is for people who are starting with agriculture and wanted to know about what crops can be grown in each season.
         \n\nThe simple interface of this application helps you choose crops based on your season and soil type.
-        \n\nClick Next to continue
+        \n\nClick Next to use agro helper
+        \n\nClick Note to add yours note
     </string>
+
 </resources>

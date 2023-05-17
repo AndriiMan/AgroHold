@@ -6,181 +6,194 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="25"
-8-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml
+8-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml
+9-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 12        android:name="com.example.agrohold.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.example.agrohold.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:5:5-76:19
+17-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:5:5-83:19
 18        android:allowBackup="true"
-18-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\vladi\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] C:\Users\andri\.gradle\caches\transforms-3\86921c9a8ae0d631920d76ee80dd5b5f\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:7:9-65
+20-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:8:9-54
+23-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:9:9-43
+24-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:10:9-41
+25-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:11:9-54
+26-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:12:9-35
+27-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.AppCompat" >
-29-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:13:9-47
+29-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:13:9-47
 30        <activity
-30-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="com.example.agrohold.CopyrightsActivity"
-31-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:16:13-47
-32            android:exported="false" />
-32-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:17:13-37
-33        <activity
-33-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:18:9-20:40
-34            android:name="com.example.agrohold.AboutApp"
-34-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:19:13-37
-35            android:exported="false" />
-35-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:20:13-37
-36        <activity
-36-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:21:9-23:40
-37            android:name="com.example.agrohold.AutorActivity"
-37-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:22:13-42
-38            android:exported="false" />
-38-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:23:13-37
-39        <activity
-39-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:24:9-26:40
-40            android:name="com.example.agrohold.MenuActivity"
-40-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:25:13-41
-41            android:exported="false" />
-41-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:26:13-37
-42        <activity
-42-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:27:9-40:20
-43            android:name="com.example.agrohold.SplashScreenActivity"
-43-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:28:13-49
-44            android:exported="true"
-44-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:29:13-36
-45            android:theme="@style/Theme.SplashActivity" >
-45-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:30:13-56
-46            <intent-filter>
-46-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:31:13-35:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:32:17-69
-47-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:32:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:34:17-77
-49-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:34:27-74
-50            </intent-filter>
-51
-52            <meta-data
-52-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
-53                android:name="android.app.lib_name"
-53-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
-54                android:value="" />
-54-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
-55        </activity>
-56        <activity
-56-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:41:9-47:20
-57            android:name="com.example.agrohold.SoilSelection"
-57-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:42:13-42
-58            android:exported="false" >
-58-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:43:13-37
+30-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:15:9-21:20
+31            android:name="com.example.agrohold.ResultPage"
+31-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:16:13-39
+32            android:exported="false" >
+32-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:17:13-37
+33            <meta-data
+33-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
+34                android:name="android.app.lib_name"
+34-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
+35                android:value="" />
+35-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
+36        </activity>
+37        <activity
+37-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:22:9-24:40
+38            android:name="com.example.agrohold.CopyrightsActivity"
+38-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:23:13-47
+39            android:exported="false" />
+39-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:24:13-37
+40        <activity
+40-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:25:9-27:40
+41            android:name="com.example.agrohold.AboutApp"
+41-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:26:13-37
+42            android:exported="false" />
+42-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:27:13-37
+43        <activity
+43-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:28:9-30:40
+44            android:name="com.example.agrohold.AutorActivity"
+44-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:29:13-42
+45            android:exported="false" />
+45-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:30:13-37
+46        <activity
+46-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:31:9-33:40
+47            android:name="com.example.agrohold.MenuActivity"
+47-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:32:13-41
+48            android:exported="false" />
+48-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:33:13-37
+49        <activity
+49-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:34:9-47:20
+50            android:name="com.example.agrohold.SplashScreenActivity"
+50-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:35:13-49
+51            android:exported="true"
+51-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:36:13-36
+52            android:theme="@style/Theme.SplashActivity" >
+52-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:37:13-56
+53            <intent-filter>
+53-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:38:13-42:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:39:17-69
+54-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:39:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:41:17-77
+56-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:41:27-74
+57            </intent-filter>
+58
 59            <meta-data
-59-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
+59-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
 60                android:name="android.app.lib_name"
-60-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
+60-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
 61                android:value="" />
-61-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
+61-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
 62        </activity>
 63        <activity
-63-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:48:9-54:20
-64            android:name="com.example.agrohold.SeasonSelection"
-64-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:49:13-44
+63-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:48:9-54:20
+64            android:name="com.example.agrohold.SoilSelection"
+64-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:49:13-42
 65            android:exported="false" >
-65-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:50:13-37
+65-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:50:13-37
 66            <meta-data
-66-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
+66-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
 67                android:name="android.app.lib_name"
-67-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
+67-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
 68                android:value="" />
-68-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
+68-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
 69        </activity>
 70        <activity
-70-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:55:9-61:20
-71            android:name="com.example.agrohold.MainActivity"
-71-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:56:13-41
-72            android:exported="true" >
-72-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:57:13-36
+70-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:55:9-61:20
+71            android:name="com.example.agrohold.SeasonSelection"
+71-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:56:13-44
+72            android:exported="false" >
+72-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:57:13-37
 73            <meta-data
-73-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
+73-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
 74                android:name="android.app.lib_name"
-74-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
+74-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
 75                android:value="" />
-75-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
+75-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
 76        </activity>
 77        <activity
-77-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:62:9-68:20
-78            android:name="com.example.agrohold.EditActivity"
-78-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:63:13-41
+77-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:62:9-68:20
+78            android:name="com.example.agrohold.MainActivity"
+78-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:63:13-41
 79            android:exported="true" >
-79-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:64:13-36
+79-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:64:13-36
 80            <meta-data
-80-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
+80-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
 81                android:name="android.app.lib_name"
-81-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
+81-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
 82                android:value="" />
-82-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
+82-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
 83        </activity>
 84        <activity
-84-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:69:9-75:20
-85            android:name="com.example.agrohold.NotesActivity"
-85-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:70:13-42
+84-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:69:9-75:20
+85            android:name="com.example.agrohold.EditActivity"
+85-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:70:13-41
 86            android:exported="true" >
-86-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:71:13-36
+86-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:71:13-36
 87            <meta-data
-87-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:37:13-39:36
+87-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
 88                android:name="android.app.lib_name"
-88-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:38:17-52
+88-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
 89                android:value="" />
-89-->E:\new\gitkraken\AgroHold\app\src\main\AndroidManifest.xml:39:17-33
+89-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
 90        </activity>
-91
-92        <provider
-92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-93            android:name="androidx.startup.InitializationProvider"
-93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-94            android:authorities="com.example.agrohold.androidx-startup"
-94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-95            android:exported="false" >
-95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-96            <meta-data
-96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-97                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-98                android:value="androidx.startup" />
-98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\vladi\.gradle\caches\transforms-3\2dfa71af9bee3680306de911b0d6d834\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-99            <meta-data
-99-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\vladi\.gradle\caches\transforms-3\bb5b42d5797c4ee7606f08b968644baa\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-100                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-100-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\vladi\.gradle\caches\transforms-3\bb5b42d5797c4ee7606f08b968644baa\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-101                android:value="androidx.startup" />
-101-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\vladi\.gradle\caches\transforms-3\bb5b42d5797c4ee7606f08b968644baa\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-102        </provider>
-103    </application>
-104
-105</manifest>
+91        <activity
+91-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:76:9-82:20
+92            android:name="com.example.agrohold.NotesActivity"
+92-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:77:13-42
+93            android:exported="true" >
+93-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:78:13-36
+94            <meta-data
+94-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:18:13-20:36
+95                android:name="android.app.lib_name"
+95-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:19:17-52
+96                android:value="" />
+96-->C:\Users\andri\Desktop\agro2\AgroHold\app\src\main\AndroidManifest.xml:20:17-33
+97        </activity>
+98
+99        <provider
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+100            android:name="androidx.startup.InitializationProvider"
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+101            android:authorities="com.example.agrohold.androidx-startup"
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+102            android:exported="false" >
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+103            <meta-data
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+105                android:value="androidx.startup" />
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\andri\.gradle\caches\transforms-3\2ec9e017405823f3f335359cf09dccb9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+106            <meta-data
+106-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\andri\.gradle\caches\transforms-3\7b32cc20b9e2f0c27f1e562574bc2e99\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+107                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+107-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\andri\.gradle\caches\transforms-3\7b32cc20b9e2f0c27f1e562574bc2e99\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+108                android:value="androidx.startup" />
+108-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\andri\.gradle\caches\transforms-3\7b32cc20b9e2f0c27f1e562574bc2e99\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+109        </provider>
+110    </application>
+111
+112</manifest>

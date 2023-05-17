@@ -1,46 +1,54 @@
 [
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\rc_item.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\rc_item.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_about_app.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_about_app.xml"
     },
     {
-        "merged": "com.example.agrohold.app-mergeDebugResources-28:/layout/activity_copyrights.xml",
-        "source": "com.example.agrohold.app-main-31:/layout/activity_copyrights.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_notes.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_notes.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_soil_selection.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_soil_selection.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_result_page.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_result_page.xml"
     },
     {
-        "merged": "com.example.agrohold.app-mergeDebugResources-28:/layout/activity_about_app.xml",
-        "source": "com.example.agrohold.app-main-31:/layout/activity_about_app.xml"
+        "merged": "com.example.agrohold.app-mergeDebugResources-28:/layout/activity_result_page.xml",
+        "source": "com.example.agrohold.app-main-31:/layout/activity_result_page.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_edit.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_edit.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_edit.xml"
     },
     {
-        "merged": "com.example.agrohold.app-mergeDebugResources-28:/layout/activity_menu.xml",
-        "source": "com.example.agrohold.app-main-31:/layout/activity_menu.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_autor.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_autor.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\rc_item.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\rc_item.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_notes.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_notes.xml"
     },
     {
-        "merged": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_season_selection.xml",
-        "source": "C:\\Users\\vladi\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_season_selection.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_soil_selection.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_soil_selection.xml"
     },
     {
-        "merged": "com.example.agrohold.app-mergeDebugResources-28:/layout/activity_autor.xml",
-        "source": "com.example.agrohold.app-main-31:/layout/activity_autor.xml"
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_copyrights.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_copyrights.xml"
+    },
+    {
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-mergeDebugResources-28:\\layout\\activity_season_selection.xml",
+        "source": "C:\\Users\\andri\\.gradle\\daemon\\7.5\\com.example.agrohold.app-main-31:\\layout\\activity_season_selection.xml"
     }
 ]

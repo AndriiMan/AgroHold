@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#CF8484"
     tools:context="com.example.agrohold.SeasonSelection">
 
     <LinearLayout
@@ -17,7 +18,7 @@
             android:background="@color/dark_teal"
             android:text="@string/facts_text"
             android:textAlignment="center"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textSize="24sp" />
 
         <TextView
@@ -37,15 +38,15 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
             android:text="@string/select_your_current_season"
+            android:textColor="@color/black"
             android:textSize="24sp" />
 
         <com.google.android.material.divider.MaterialDivider
             android:layout_width="250dp"
-            android:layout_gravity="center"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:layout_marginTop="8dp"
-            android:layout_marginBottom="16dp"
-            />
+            android:layout_marginBottom="16dp" />
 
         <RadioGroup
             android:id="@+id/seasonRadioGrp"
@@ -59,17 +60,18 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:contentDescription="summer"
+                android:contentDescription="@string/summer"
                 android:scaleType="centerCrop"
-                android:src="@drawable/summer"
-                />
+                android:text="@string/summer"
+                android:src="@drawable/summer" />
 
             <RadioButton
                 android:id="@+id/summer_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:text="summer" />
+                android:text="summer"
+                android:textColor="@color/black" />
 
             <com.google.android.material.imageview.ShapeableImageView
                 android:id="@+id/winter_image"
@@ -77,16 +79,17 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:contentDescription="winter"
+                android:contentDescription="@string/winter"
                 android:scaleType="centerCrop"
-                android:src="@drawable/winter"/>
+                android:src="@drawable/winter" />
 
             <RadioButton
                 android:id="@+id/winter_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="winter" />
+                android:text="winter"
+                android:textColor="@color/black" />
 
             <com.google.android.material.imageview.ShapeableImageView
                 android:id="@+id/autumn_image"
@@ -94,16 +97,16 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:contentDescription="autumn"
+                android:contentDescription="@string/autumn"
                 android:scaleType="centerCrop"
-                android:src="@drawable/autumn"
-                />
+                android:src="@drawable/autumn" />
 
             <RadioButton
                 android:id="@+id/autumn_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:textColor="@color/black"
                 android:text="autumn" />
 
             <com.google.android.material.imageview.ShapeableImageView
@@ -112,9 +115,11 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:contentDescription="spring"
+                android:contentDescription="@string/spring"
                 android:scaleType="centerCrop"
-                android:src="@drawable/spring"/>
+                android:textColor="@color/black"
+                android:src="@drawable/spring" />
+
             <RadioButton
                 android:id="@+id/spring_button"
                 android:layout_width="wrap_content"

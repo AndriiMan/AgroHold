@@ -20,7 +20,7 @@ class SplashScreenActivity : AppCompatActivity() {
             finish()
         }, 1500)
 
-        Snackbar.make(findViewById(R.id.splash_activity), "Harvesting Welcomes you ✨", Toast.LENGTH_SHORT)
+        Snackbar.make(findViewById(R.id.splash_activity), "Welcome to our very cool app ✨", Toast.LENGTH_SHORT)
             .setBackgroundTint(resources.getColor(R.color.black))
             .setTextColor(resources.getColor(R.color.white))
             .show()
