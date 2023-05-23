@@ -35,7 +35,7 @@
     <string name="app">About the app</string>
     <string name="copyrights">Сopyrights</string>
     <string name="about_copyrights">All rights reserved © 2023</string>
-    <string name="about_autor">Vladyslav Semak, Andrii Manych</string>
+    <string name="about_autor">Vladyslav Semak, Andrii Manych, Vladyslav Bahlai</string>
     <string name="app_description">
         This application is for people who are starting with agriculture and wanted to know about what crops can be grown in each season.
         \n\nThe simple interface of this application helps you choose crops based on your season and soil type.
