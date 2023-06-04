@@ -19,11 +19,13 @@ class MyAdapter(listMain:ArrayList<ListItem>, contextM: Context) : RecyclerView.
 
         val tvTitle = itemView.findViewById<TextView>(R.id.tvTitle)
         val tvTime = itemView.findViewById<TextView>(R.id.tvTime)
+        val tvCreationTime = itemView.findViewById<TextView>(R.id.tvCreationTime)
         val context = contextV
 
         fun setData(item:ListItem){
             tvTitle.text = item.title
-            tvTime.text = item.time
+            tvTime.text = "Date of edition " + item.time
+            tvCreationTime.text = "Date of creation " + item.creation_time
 
             itemView.setOnClickListener{
                 val intent = Intent(context, EditActivity::class.java).apply {

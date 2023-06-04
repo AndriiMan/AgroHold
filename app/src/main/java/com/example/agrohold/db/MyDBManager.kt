@@ -21,6 +21,7 @@ class MyDbManager(val context: Context) {
             put(MyDbNameClass.COLUMN_NAME_CONTENT, content)
             put(MyDbNameClass.COLUMN_NAME_IMG_URI, uri)
             put(MyDbNameClass.COLUMN_NAME_TIME, time)
+            put(MyDbNameClass.COLUMN_NAME_CREATION_TIME, time)
         }
         db?.insert(MyDbNameClass.TABLE_NAME, null, values)
     }
@@ -52,12 +53,14 @@ class MyDbManager(val context: Context) {
             val dataUri = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_IMG_URI))
             val dataId = cursor.getInt(cursor.getColumnIndexOrThrow(BaseColumns._ID))
             val time = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_TIME))
+            val creationTime = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_CREATION_TIME))
             var item = ListItem()
             item.title = dataTitle
             item.desc = dataContent
             item.uri = dataUri
             item.id = dataId
             item.time = time
+            item.creation_time = creationTime
             dataList.add(item)
         }
         cursor.close()

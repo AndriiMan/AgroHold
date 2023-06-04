@@ -6,4 +6,5 @@ class ListItem {
     var uri = "empty"
     var time = ""
     var id = 0
+    var creation_time = ""
 }

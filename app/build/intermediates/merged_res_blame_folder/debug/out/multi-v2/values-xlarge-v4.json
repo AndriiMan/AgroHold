@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agrohold.app-mergeDebugResources-27:/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.example.agrohold.app-mergeDebugResources-26:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\andri\\.gradle\\caches\\transforms-3\\dc9476a602b5d3ba85354d84722e4f01\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\bagy6\\.gradle\\caches\\transforms-3\\25306d186e67bc750ad9ef26a6053a09\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

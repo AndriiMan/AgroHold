@@ -88,6 +88,8 @@ class EditActivity : AppCompatActivity() {
 
         val myTitle = edTitle.text.toString()
         val myDesc = edDesc.text.toString()
+        val myTime = Calendar.getInstance().time
+
 
         CoroutineScope(Dispatchers.Main).launch {
             if(myTitle != "" && myDesc != ""){
