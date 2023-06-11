@@ -69,7 +69,9 @@ id fab_next_to_season
 id fab_next_to_season2
 id facts_text
 id fbAddImage
+id fbAddImage2
 id fbEdit
+id fbGetLoc
 id fbMenu
 id fbNew
 id fbSave
@@ -104,6 +106,7 @@ id summer_image
 id textView
 id textView2
 id textView3
+id tvCreationTime
 id tvNoElements
 id tvTime
 id tvTitle
