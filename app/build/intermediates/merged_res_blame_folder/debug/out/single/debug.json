@@ -1,222 +1,226 @@
 [
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_menu.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_metal_mania_regular.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\metal_mania_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_winter.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\winter.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_soil_selection.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_soil_selection.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_laterite_soils.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\laterite_soils.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\ic_baseline_arrow_forward_24.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_soil_selection.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_soil_selection.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_autumn.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\autumn.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_notes.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_notes.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_laterite_soils.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\laterite_soils.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable-v24_ic_arrow_forward_24.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable-v24\\ic_arrow_forward_24.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_forest_and_mountain_soil.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\forest_and_mountain_soil.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_tangerine_regular.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\tangerine_regular.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_roundcorners.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\roundcorners.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_black_soil.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\black_soil.jpg"
     },
     {
-        "merged": "com.example.agrohold.app-merged_res-28:/layout_rc_item.xml.flat",
-        "source": "com.example.agrohold.app-main-30:/layout/rc_item.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_red_soil.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\red_soil.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_crimson_text_bold_italic.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\crimson_text_bold_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\ic_baseline_arrow_forward_24.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_app_icon_sprout.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\app_icon_sprout.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_season_selection.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_season_selection.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_summer.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\summer.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_crimsontext_bold.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\crimsontext_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_metal_mania_regular.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\metal_mania_regular.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_copyrights.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_copyrights.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_result_page.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_result_page.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_rc_item.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\rc_item.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_crimson_text_regular.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\crimson_text_regular.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_autumn.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\autumn.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_alluvial_soil.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\alluvial_soil.png"
+        "merged": "com.example.agrohold.app-merged_res-31:/layout_rc_item.xml.flat",
+        "source": "com.example.agrohold.app-main-33:/layout/rc_item.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_season_selection.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_season_selection.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_arid_soil.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\arid_soil.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_crimson_text_regular.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\crimson_text_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_crimson_text_bold_italic.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\crimson_text_bold_italic.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_rainy.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\rainy.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_autor.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_autor.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_crimson_text_italic.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\crimson_text_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_about_app.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_about_app.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_roundcorners.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\roundcorners.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable-v24_ic_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable-v24\\ic_arrow_forward_24.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_spring.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\spring.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_tangerine_regular.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\tangerine_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_black_soil.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\black_soil.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_app_icon_planting.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\app_icon_planting.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_app_icon_sprout.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\app_icon_sprout.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_edit.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_edit.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_app_icon_planting.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\app_icon_planting.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_arid_soil.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\arid_soil.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_summer.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\summer.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_about_app.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_about_app.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_crimson_text_italic.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\crimson_text_italic.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_autor.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_autor.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\font_miniver_regular.ttf.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\font\\miniver_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_copyrights.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_copyrights.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_winter.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\winter.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_rc_item.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\rc_item.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable-v24_note.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable-v24\\note.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_forest_and_mountain_soil.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\forest_and_mountain_soil.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_spring.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\spring.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_red_soil.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\red_soil.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_alluvial_soil.png.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\alluvial_soil.png"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_crimsontext_bold.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\crimsontext_bold.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_baseline_my_location_24.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\baseline_my_location_24.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_loamy_soil.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\loamy_soil.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\font_miniver_regular.ttf.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\font\\miniver_regular.ttf"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_notes.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_notes.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable-v24_note.png.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable-v24\\note.png"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_edit.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_edit.xml"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable_rainy.jpg.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable\\rainy.jpg"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_loamy_soil.jpg.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\loamy_soil.jpg"
     },
     {
-        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\layout_activity_result_page.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\layout\\activity_result_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-merged_res-31:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\bagy6\\.gradle\\daemon\\8.0\\com.example.agrohold.app-main-33:\\drawable\\ic_baseline_home_24.xml"
     }
 ]

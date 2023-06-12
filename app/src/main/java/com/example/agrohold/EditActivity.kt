@@ -3,6 +3,9 @@ package com.example.agrohold
 import android.app.Activity
 import android.content.Intent
 import android.content.pm.PackageManager
+import android.location.Address
+import android.location.Geocoder
+import android.location.Location
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -30,6 +33,7 @@ class EditActivity : AppCompatActivity() {
     var isEditState = false
     val imageRequestCode = 10
     var tempImageUri = "empty"
+    var location = "empty"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -47,7 +51,7 @@ class EditActivity : AppCompatActivity() {
 
     private fun fetchLocation() {
         val task = fusedLocationProviderClient.lastLocation
-
+        var result : String
         if(ActivityCompat.checkSelfPermission (this, android.Manifest.permission.ACCESS_FINE_LOCATION)
             != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission
                 (this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED)
@@ -58,9 +62,12 @@ class EditActivity : AppCompatActivity() {
         task.addOnSuccessListener {
             if(it != null)
             {
-                Toast.makeText(applicationContext, "${it.latitude} ${it.longitude}", Toast.LENGTH_SHORT).show()
+
+                location = getAddress(it)
+                Toast.makeText(applicationContext, location, Toast.LENGTH_SHORT).show()
             }
         }
+
     }
 
     override fun onDestroy() {
@@ -89,9 +96,28 @@ class EditActivity : AppCompatActivity() {
     fun onClickAddImage(view: View) {
         val mainImageLayout = findViewById<View>(R.id.mainImageLayout)
         val fbAddImage = findViewById<View>(R.id.fbAddImage)
-
+        val bdnLocation = findViewById<View>(R.id.fbGetLoc)
+        bdnLocation.visibility = View.VISIBLE
         mainImageLayout.visibility = View.VISIBLE
         fbAddImage.visibility = View.GONE
+
+    }
+
+    private fun getAddress(latLng: Location): String {
+        val geocoder = Geocoder(this, Locale.getDefault())
+        val address: Address?
+        var addressText = ""
+
+        val addresses: List<Address>? =
+            geocoder.getFromLocation(latLng.latitude, latLng.longitude, 1)
+
+        if (addresses?.isNotEmpty()!!) {
+            address = addresses[0]
+            addressText = address.getAddressLine(0)
+        } else{
+            addressText = "its not appear"
+        }
+        return addressText
     }
 
     fun onClickDeleteImage(view: View) {
@@ -121,14 +147,13 @@ class EditActivity : AppCompatActivity() {
         val myDesc = edDesc.text.toString()
         val myTime = Calendar.getInstance().time
 
-
         CoroutineScope(Dispatchers.Main).launch {
             if(myTitle != "" && myDesc != ""){
                 if(isEditState){
                     myDbManager.updateItem(myTitle, myDesc, tempImageUri, id, getCurrentTime())
                 }
                 else {
-                    myDbManager.insertToDb(myTitle, myDesc, tempImageUri, getCurrentTime())
+                    myDbManager.insertToDb(myTitle, myDesc, tempImageUri, getCurrentTime(), location)
                 }
                 finish()
             }
@@ -143,7 +168,8 @@ class EditActivity : AppCompatActivity() {
         val imButtonEditImage = findViewById<View>(R.id.imButtonEditeImage)
         val imButtonDeleteImage = findViewById<View>(R.id.imButtonDeleteImage)
         val fbAddImage = findViewById<View>(R.id.fbAddImage)
-
+        val bdnLocation = findViewById<View>(R.id.fbGetLoc)
+        bdnLocation.visibility = View.VISIBLE
         fbEdit.visibility = View.GONE
         edTitle.isEnabled = true
         edDesc.isEnabled = true
@@ -164,7 +190,8 @@ class EditActivity : AppCompatActivity() {
                 val edTitle = findViewById<TextView>(R.id.edTitle)
                 val edDesc = findViewById<TextView>(R.id.edDesc)
                 val fbAddImage = findViewById<View>(R.id.fbAddImage)
-
+                val bdnLocation = findViewById<View>(R.id.fbGetLoc)
+                bdnLocation.visibility = View.VISIBLE
 
                 fbAddImage.visibility = View.GONE
                 edTitle.setText(i.getStringExtra(MyIntentConstants.I_TITLE_KEY))

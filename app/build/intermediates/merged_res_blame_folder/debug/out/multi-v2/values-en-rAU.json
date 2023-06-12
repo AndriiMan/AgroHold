@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agrohold.app-mergeDebugResources-26:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.example.agrohold.app-mergeDebugResources-29:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bagy6\\.gradle\\caches\\transforms-3\\39ffa539eee4636c1c411d9abdafd47b\\transformed\\core-1.9.0\\res\\values-en-rAU\\values-en-rAU.xml",

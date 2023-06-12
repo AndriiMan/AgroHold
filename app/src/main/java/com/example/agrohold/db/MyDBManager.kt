@@ -15,13 +15,14 @@ class MyDbManager(val context: Context) {
         db = myDbHelper.writableDatabase
     }
 
-    suspend fun insertToDb(title: String, content: String, uri: String, time: String) = withContext(Dispatchers.IO){
+    suspend fun insertToDb(title: String, content: String, uri: String, time: String, location: String) = withContext(Dispatchers.IO){
         val values = ContentValues().apply {
             put(MyDbNameClass.COLUMN_NAME_TITLE, title)
             put(MyDbNameClass.COLUMN_NAME_CONTENT, content)
             put(MyDbNameClass.COLUMN_NAME_IMG_URI, uri)
             put(MyDbNameClass.COLUMN_NAME_TIME, time)
             put(MyDbNameClass.COLUMN_NAME_CREATION_TIME, time)
+            put(MyDbNameClass.COLUMN_NAME_LOCATION, location)
         }
         db?.insert(MyDbNameClass.TABLE_NAME, null, values)
     }
@@ -54,7 +55,9 @@ class MyDbManager(val context: Context) {
             val dataId = cursor.getInt(cursor.getColumnIndexOrThrow(BaseColumns._ID))
             val time = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_TIME))
             val creationTime = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_CREATION_TIME))
+            var location = cursor.getString(cursor.getColumnIndexOrThrow(MyDbNameClass.COLUMN_NAME_LOCATION))
             var item = ListItem()
+            item.location = location
             item.title = dataTitle
             item.desc = dataContent
             item.uri = dataUri

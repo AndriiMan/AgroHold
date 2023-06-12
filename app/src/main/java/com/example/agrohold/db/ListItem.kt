@@ -7,4 +7,5 @@ class ListItem {
     var time = ""
     var id = 0
     var creation_time = ""
+    var location = ""
 }

@@ -93,21 +93,9 @@
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toTopOf="@+id/fbAddImage"
         app:layout_constraintEnd_toEndOf="@+id/fbAddImage"
+        app:srcCompat="@drawable/baseline_my_location_24"
        />
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fbAddImage2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:alpha="0.6"
-        android:clickable="true"
-        android:contentDescription="@string/app_name"
-        android:onClick="onClickAddImage"
-        android:visibility="visible"
-        app:layout_constraintBottom_toTopOf="@+id/fbSave"
-        app:layout_constraintEnd_toEndOf="@+id/fbSave"
-        app:srcCompat="@android:drawable/ic_menu_gallery" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/mainImageLayout"

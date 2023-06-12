@@ -36,6 +36,9 @@ public final class ActivityEditBinding implements ViewBinding {
   public final FloatingActionButton fbEdit;
 
   @NonNull
+  public final FloatingActionButton fbGetLoc;
+
+  @NonNull
   public final FloatingActionButton fbSave;
 
   @NonNull
@@ -55,15 +58,16 @@ public final class ActivityEditBinding implements ViewBinding {
 
   private ActivityEditBinding(@NonNull ConstraintLayout rootView, @NonNull EditText edDesc,
       @NonNull EditText edTitle, @NonNull FloatingActionButton fbAddImage,
-      @NonNull FloatingActionButton fbEdit, @NonNull FloatingActionButton fbSave,
-      @NonNull Guideline guideline2, @NonNull ImageButton imButtonDeleteImage,
-      @NonNull ImageButton imButtonEditeImage, @NonNull ImageView imMainImage,
-      @NonNull ConstraintLayout mainImageLayout) {
+      @NonNull FloatingActionButton fbEdit, @NonNull FloatingActionButton fbGetLoc,
+      @NonNull FloatingActionButton fbSave, @NonNull Guideline guideline2,
+      @NonNull ImageButton imButtonDeleteImage, @NonNull ImageButton imButtonEditeImage,
+      @NonNull ImageView imMainImage, @NonNull ConstraintLayout mainImageLayout) {
     this.rootView = rootView;
     this.edDesc = edDesc;
     this.edTitle = edTitle;
     this.fbAddImage = fbAddImage;
     this.fbEdit = fbEdit;
+    this.fbGetLoc = fbGetLoc;
     this.fbSave = fbSave;
     this.guideline2 = guideline2;
     this.imButtonDeleteImage = imButtonDeleteImage;
@@ -123,6 +127,12 @@ public final class ActivityEditBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.fbGetLoc;
+      FloatingActionButton fbGetLoc = ViewBindings.findChildViewById(rootView, id);
+      if (fbGetLoc == null) {
+        break missingId;
+      }
+
       id = R.id.fbSave;
       FloatingActionButton fbSave = ViewBindings.findChildViewById(rootView, id);
       if (fbSave == null) {
@@ -160,8 +170,8 @@ public final class ActivityEditBinding implements ViewBinding {
       }
 
       return new ActivityEditBinding((ConstraintLayout) rootView, edDesc, edTitle, fbAddImage,
-          fbEdit, fbSave, guideline2, imButtonDeleteImage, imButtonEditeImage, imMainImage,
-          mainImageLayout);
+          fbEdit, fbGetLoc, fbSave, guideline2, imButtonDeleteImage, imButtonEditeImage,
+          imMainImage, mainImageLayout);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

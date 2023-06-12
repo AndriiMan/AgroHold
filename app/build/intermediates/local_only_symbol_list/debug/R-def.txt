@@ -27,6 +27,7 @@ drawable app_icon_planting
 drawable app_icon_sprout
 drawable arid_soil
 drawable autumn
+drawable baseline_my_location_24
 drawable black_soil
 drawable forest_and_mountain_soil
 drawable ic_arrow_forward_24
@@ -69,7 +70,6 @@ id fab_next_to_season
 id fab_next_to_season2
 id facts_text
 id fbAddImage
-id fbAddImage2
 id fbEdit
 id fbGetLoc
 id fbMenu
@@ -107,6 +107,7 @@ id textView
 id textView2
 id textView3
 id tvCreationTime
+id tvLocation
 id tvNoElements
 id tvTime
 id tvTitle

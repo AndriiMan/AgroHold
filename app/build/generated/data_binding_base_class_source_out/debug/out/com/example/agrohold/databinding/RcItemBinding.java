@@ -23,15 +23,19 @@ public final class RcItemBinding implements ViewBinding {
   public final TextView tvCreationTime;
 
   @NonNull
+  public final TextView tvLocation;
+
+  @NonNull
   public final TextView tvTime;
 
   @NonNull
   public final TextView tvTitle;
 
   private RcItemBinding(@NonNull ConstraintLayout rootView, @NonNull TextView tvCreationTime,
-      @NonNull TextView tvTime, @NonNull TextView tvTitle) {
+      @NonNull TextView tvLocation, @NonNull TextView tvTime, @NonNull TextView tvTitle) {
     this.rootView = rootView;
     this.tvCreationTime = tvCreationTime;
+    this.tvLocation = tvLocation;
     this.tvTime = tvTime;
     this.tvTitle = tvTitle;
   }
@@ -69,6 +73,12 @@ public final class RcItemBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tvLocation;
+      TextView tvLocation = ViewBindings.findChildViewById(rootView, id);
+      if (tvLocation == null) {
+        break missingId;
+      }
+
       id = R.id.tvTime;
       TextView tvTime = ViewBindings.findChildViewById(rootView, id);
       if (tvTime == null) {
@@ -81,7 +91,8 @@ public final class RcItemBinding implements ViewBinding {
         break missingId;
       }
 
-      return new RcItemBinding((ConstraintLayout) rootView, tvCreationTime, tvTime, tvTitle);
+      return new RcItemBinding((ConstraintLayout) rootView, tvCreationTime, tvLocation, tvTime,
+          tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
