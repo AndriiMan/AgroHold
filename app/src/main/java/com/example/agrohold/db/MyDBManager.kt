@@ -27,13 +27,14 @@ class MyDbManager(val context: Context) {
         db?.insert(MyDbNameClass.TABLE_NAME, null, values)
     }
 
-    suspend fun updateItem(title: String, content: String, uri: String, id:Int, time: String) = withContext(Dispatchers.IO){
+    suspend fun updateItem(title: String, content: String, uri: String, id:Int, time: String, location: String) = withContext(Dispatchers.IO){
         val selection = BaseColumns._ID + "=$id"
         val values = ContentValues().apply {
             put(MyDbNameClass.COLUMN_NAME_TITLE, title)
             put(MyDbNameClass.COLUMN_NAME_CONTENT, content)
             put(MyDbNameClass.COLUMN_NAME_IMG_URI, uri)
             put(MyDbNameClass.COLUMN_NAME_TIME, time)
+            put(MyDbNameClass.COLUMN_NAME_LOCATION, location)
         }
         db?.update(MyDbNameClass.TABLE_NAME, values, selection, null)
     }

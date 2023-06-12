@@ -150,7 +150,7 @@ class EditActivity : AppCompatActivity() {
         CoroutineScope(Dispatchers.Main).launch {
             if(myTitle != "" && myDesc != ""){
                 if(isEditState){
-                    myDbManager.updateItem(myTitle, myDesc, tempImageUri, id, getCurrentTime())
+                    myDbManager.updateItem(myTitle, myDesc, tempImageUri, id, getCurrentTime(), location)
                 }
                 else {
                     myDbManager.insertToDb(myTitle, myDesc, tempImageUri, getCurrentTime(), location)
